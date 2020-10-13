@@ -1,3 +1,3 @@
 # Learning_Julia
 
-experimenting with Julia
+experimenting with Julia programming language
