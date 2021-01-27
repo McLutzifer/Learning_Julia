@@ -1,7 +1,6 @@
 Code snippets and solutions from the
 
 ## Little book of
-# Julia
-# Algorithms
+# Julia </br> Algorithms
 
 ### by Ahan Sengupta & William Lau
