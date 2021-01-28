@@ -12,7 +12,7 @@ const MEANING_OF_LIFE = 42
 second = 7
 println(second)
 
-MEANING_OF_LIFE = 90 
+MEANING_OF_LIFE = 90
 
 println(MEANING_OF_LIFE)
 
@@ -107,7 +107,8 @@ function addnumbers(numberone, numbertwo)
     return(numberone += numbertwo)
 end
 
-addnumbers(5, 10)
+a = addnumbers(5, 10)
+println(a)
 sum([5, 10, 10])
 array = [5, 10, 15, 20]
 
@@ -596,7 +597,7 @@ println(arr2)
 function comparearea(rect1::MyRect, rect2::MyRect)
     area1 = rect1.length * rect1.width
     area2 = rect2.length * rect2.width
-    
+
     return area1 < area2
 end
 
@@ -606,10 +607,3 @@ println(arr2)
 
 sort!(arr2, lt=comparearea)
 println(arr2)
-
-
-
-
-
-
-
