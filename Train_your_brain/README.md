@@ -1,4 +1,4 @@
-#T rain Your Brain
+# Train Your Brain
 # —
 ## Challenging Yet Elementary Mathematics
 ### A Julia language companion
