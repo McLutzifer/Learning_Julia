@@ -13,7 +13,6 @@ function linear_search(target)
     end
 end
 
-
 println("Who are you searching for?")
 name = readline()
 linear_search(name)
