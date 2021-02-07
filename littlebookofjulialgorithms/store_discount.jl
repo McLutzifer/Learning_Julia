@@ -1,6 +1,6 @@
 discounts = [["summer10", 0.1],
     ["welcome", 0.15],
-    ["refe20", 0.2]]
+    ["refer20", 0.2]]
 
 discount = 0
 
@@ -23,3 +23,9 @@ if discount_in == "yes"
     end
 
     if valid == false
+        println("Invalid discount code")
+    end
+end
+
+total = total - total * discount
+println("your total is €$(total)")
