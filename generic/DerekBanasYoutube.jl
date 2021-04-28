@@ -11,3 +11,5 @@ function chengeNum(args)
     x::Int8 = 10
     x = "Dog"
 end
+
+canDrive = true
