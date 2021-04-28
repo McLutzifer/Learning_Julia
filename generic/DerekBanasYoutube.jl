@@ -13,3 +13,6 @@ function chengeNum(args)
 end
 
 canDrive = true
+c = 'A'
+
+c2 = Char(120)  # UTF-8 Unicode
