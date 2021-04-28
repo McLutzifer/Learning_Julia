@@ -16,3 +16,7 @@ canDrive = true
 c = 'A'
 
 c2 = Char(120)  # UTF-8 Unicode
+println(c2)
+
+i1 = UInt8(trunc(3.14))
+println(i1)
