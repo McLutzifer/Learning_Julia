@@ -20,3 +20,9 @@ println(c2)
 
 i1 = UInt8(trunc(3.14))
 println(i1)
+
+f1 = parse(Float64, "1")
+println(f1)
+
+i2 = parse(Int8, "1")
+println(i2)
